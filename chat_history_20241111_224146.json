@@ -1,0 +1,202 @@
+[
+  {
+    "role": "user",
+    "content": "n Giáo dục thể chất được chia làm mấy đợt"
+  },
+  {
+    "role": "assistant",
+    "content": "Giáo dục thể chất được chia làm 2 đợt."
+  },
+  {
+    "role": "user",
+    "content": "đợt 1 ắt đầu và kết thúc ào"
+  },
+  {
+    "role": "assistant",
+    "content": "Đợt 1 bắt đầu từ ngày 23/6/2024 và kết thúc vào ngày 14/7/2024."
+  },
+  {
+    "role": "user",
+    "content": "địa đểm học giáo dục thể chất của 2 đợt"
+  },
+  {
+    "role": "assistant",
+    "content": "Địa điểm học giáo dục thể chất của 2 đợt là Trường Đại học Kỹ thuật - Công nghệ Cần Thơ và Trường Đại học Cần Thơ."
+  },
+  {
+    "role": "user",
+    "content": "số ín chỉ của hphần giáo dục thể chất"
+  },
+  {
+    "role": "assistant",
+    "content": "Số tín chỉ của học phần Giáo dục thể chất là 03."
+  },
+  {
+    "role": "user",
+    "content": "sốấy học ần giáo dục thhất v mỗi học ần bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "nội dung họcủa giáo  dục thhất"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "NỘI DUNG của Giáo dục thể chất 1"
+  },
+  {
+    "role": "assistant",
+    "content": "Nội dung của Giáo dục thể chất 1 bao gồm môn Bóng chuyền 1, Taekwondo 1 và Cờ vua 1."
+  },
+  {
+    "role": "user",
+    "content": "đợt 1 có bao nhiêu sinh viên"
+  },
+  {
+    "role": "assistant",
+    "content": "Đợt 1 có 797 sinh viên."
+  },
+  {
+    "role": "user",
+    "content": "có bao nhiêu sinh viên củaớp HTTT2311"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "sĩ số c lớp HTTT2311"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "sĩ số c lớp hệ ống thông tin 2023"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "lớp công nghệ ực phẩm có sĩ số bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Lớp Công nghệ ực phẩm có sĩ số là 80."
+  },
+  {
+    "role": "user",
+    "content": "lớp CNDD có sĩ số bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Lớp CNDD có sĩ số là 68 sinh viên."
+  },
+  {
+    "role": "user",
+    "content": "Tổng sốượng đợt 2 có bao nhinếu không ính ớp QTKD2351"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Tổng sốượng đợt 2 có baobao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "tổng  số lượng đợt 2 có bao nhiêu sinh viên"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số lượng đợt 2 có 787 sinh viên."
+  },
+  {
+    "role": "user",
+    "content": "tổng  số lượng đợt 2 có bao nhiêu sinh vếu tr lớp QTKD2351"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số lượng đợt 2 có 79 sinh viên thuộc lớp QTKD2351."
+  },
+  {
+    "role": "user",
+    "content": "tổng  số lượng đợt 2 có bao nhiêu sếu không tính lớp QTKD2351"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số lượng đợt 2 có 787 sinh viên không tính lớp QTKD2351."
+  },
+  {
+    "role": "user",
+    "content": "tổng  số lượng đợt 2 có bao nhiêu sếu không tính lớp CNXD2311"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số lượng đợt 2 có 10 sếu không tính lớp CNXD2311."
+  },
+  {
+    "role": "user",
+    "content": "tổng  số lượng đợt 2 có bao nhiêu sếuinh viên"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số lượng đợt 2 có 797 sinh viên."
+  },
+  {
+    "role": "user",
+    "content": "tổng  số lượng đợt 2 có bao nsinh viên nếu không ính ớp CNXD2311"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số lượng đợt 2 có 434 sinh viên nếu không ính ớp CNXD2311."
+  },
+  {
+    "role": "user",
+    "content": "tổng  số lượng đợt 2 có bao nsinhiêu sinh viên nếính ớp QLXD2311"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số lượng đợt 2 có 69 sinh viên nếính ớp QLXD2311."
+  },
+  {
+    "role": "user",
+    "content": "khoa chủ quản c lớp Quản trị kinh doanh 2023"
+  },
+  {
+    "role": "assistant",
+    "content": "Khoa chủ quản của lớp Quản trị kinh doanh 2023 không được cung cấp trong thông tin trên."
+  },
+  {
+    "role": "user",
+    "content": "nếu có vấn đề phát sinh thì liên hệ ai"
+  },
+  {
+    "role": "assistant",
+    "content": "Nếu có vấn đề phát sinh, sinh viên cần liên hệ ngay cho giảng viên phụ trách lớp, cố vấn học tập hoặc liên hệ trực tiếp Ban Chủ nhiệm khoa Khoa học xã hội theo các số điện thoại đã được cung cấp."
+  },
+  {
+    "role": "user",
+    "content": "tổ chức thực hiện "
+  },
+  {
+    "role": "assistant",
+    "content": "Tổ chức thực hiện chương trình giáo dục thể chất (GDTC) cho sinh viên năm học 2024-2025 như sau:\n- Thời gian học: Đợt 1 từ ngày 23/6/2024 đến ngày 14/7/2024, Đợt 2 từ ngày 14/7/2024 đến ngày 04/8/2024. Buổi sáng từ 7 giờ 00 đến 11 giờ 00, buổi chiều từ 13 giờ 30 đến 17 giờ 00.\n- Địa điểm học: Sinh viên học môn GDTC tại Trường Đại học Kỹ thuật - Công nghệ Cần Thơ và tại Trường Đại học Cần Thơ.\n- Nội dung chương trình: Tổng số tín chỉ là 03, bao gồm các học phần Quản trị kinh doanh, Tài chính-Ngân hàng, Công nghệ kỹ thuật cơ điện tử, Công nghệ kỹ thuật điều khiển và Tự động hóa, Công nghệ kỹ thuật công trình xây dựng, Quản lý xây dựng."
+  }
+]

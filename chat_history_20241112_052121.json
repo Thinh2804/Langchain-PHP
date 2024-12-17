@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "trường Triển khai truyền thông qua nững đâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Trường triển khai truyền thông qua email, website, các trang mạng xã hội như Facebook, Zalo, Youtube, Instagram."
+  },
+  {
+    "role": "user",
+    "content": "tổ kỹ thuật truyềnnhững giảng viên ào"
+  },
+  {
+    "role": "assistant",
+    "content": "Câu trả lời không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "tổ kỹ thuật truyềnnhư có những ai"
+  },
+  {
+    "role": "assistant",
+    "content": "Thông tin được cung cấp không đề cập đến thành viên cụ thể của Tổ kỹ thuật truyền thông. Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Thành lập Tổ kỹ thuật truyền thông (kỹ thuật về Facebook, Youtube, Website) để hỗ trợ cho công tác của Ban Truyền thông:"
+  },
+  {
+    "role": "assistant",
+    "content": "Có 5 thành viên trong Tổ kỹ thuật truyền thông, bao gồm Ths.Vi Nhật Bình, Ths.Phạm Thành Công, Ks.Trần Lê Duy Anh, Ks.Nguyễn Minh Thiệp và Ks.Nguyễn Bình Trọng."
+  }
+]

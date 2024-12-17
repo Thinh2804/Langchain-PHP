@@ -1,0 +1,122 @@
+[
+  {
+    "role": "user",
+    "content": "thời hạđ gực tập tốt nghiệp, thưập thực tế là bao lâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Thời gian thực tập tốt nghiệp, thực tập thực tế từ bao lâu đến bao lâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Phòng Đào tạo hủy học phần sinh viên không đóng học phí vào khi nào"
+  },
+  {
+    "role": "assistant",
+    "content": "Phòng Đào tạo hủy học phần sinh viên không đóng học phí vào ngày 3/1/2025."
+  },
+  {
+    "role": "user",
+    "content": "thời giandạy học học kỳ II kài bao lâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Thời gian dạy học học kỳ II kéo dài trong 15 tuần."
+  },
+  {
+    "role": "user",
+    "content": "Kiểm tra ngoại ngữ đầu vào đối với sinh viên Khóa 2024 vào thời gian nào"
+  },
+  {
+    "role": "assistant",
+    "content": "Sinh viên Khóa 2024 được kiểm tra ngoại ngữ đầu vào từ ngày 17/03/2025 đến ngày 31/03/2025 trong vòng 2 tuần."
+  },
+  {
+    "role": "user",
+    "content": "Thời gian thi kết thuc học phần họckỳ I"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Thời gian thi kết thucúc hphần học kỳ I"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Thời gian thi kết thucuhúc hần"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Thời gian thi kết thuc học kỳào lúc nào"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Thời gian thi kết thuc học phần"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Dự kiến tổ chức Lễ Trao bằng tốt nghiệp"
+  },
+  {
+    "role": "assistant",
+    "content": "Lễ Trao bằng tốt nghiệp dự kiến sẽ được tổ chức vào ngày 26/01/2025."
+  },
+  {
+    "role": "user",
+    "content": "Thực hiện Đồ án Khoá luận tốt nghiệp, Thực tập tốt nghiệp, Học phần thuộc nhóm tự chọn tốt nghiệp đợt 2 năm học 2024 - 2025"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "thời gian Thực hiện Đồ án Khoá luận tốt nghiệp, Thực tập tốt nghiệp, Học phần thuộc nhóm tự chọn tốt nghiệp đợt 2 năm học 2024 - 2025"
+  },
+  {
+    "role": "assistant",
+    "content": "Thời gian thực hiện Đồ án Khoá luận tốt nghiệp, Thực tập tốt nghiệp, Học phần thuộc nhóm tự chọn tốt nghiệp đợt 2 năm học 2024 - 2025 là từ ngày 10/02/2025 đến ngày 08/6/2025, tổng cộng 16 tuần."
+  },
+  {
+    "role": "user",
+    "content": "khi nào giáo viên chấm bài học kỳ 2"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "khi nào giáo viên chấm bài hothi học kỳ 2"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  }
+]

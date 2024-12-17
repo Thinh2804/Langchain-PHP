@@ -1,0 +1,186 @@
+[
+  {
+    "role": "user",
+    "content": "khách ời dự khai giảng là baoêu người"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "thành phần tham dự"
+  },
+  {
+    "role": "assistant",
+    "content": "Thông tin không cung cấp đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "dự kiến bao nhiêu khách tham dự"
+  },
+  {
+    "role": "assistant",
+    "content": "Dự kiến sẽ có 250 khách tham dự."
+  },
+  {
+    "role": "user",
+    "content": "hã nêu chi tiết các thành phần tham dự"
+  },
+  {
+    "role": "assistant",
+    "content": "Các thành phần tham dự bao gồm:\n- Lãnh đạo UBND Thành phố Cần Thơ: 5 đại biểu.\n- Đại diện lãnh đạo Đảng ủy Khối cơ quan Dân Chính Đảng.\n- Đại diện lãnh đạo Sở Giáo dục và Đào tạo; Sở Khoa học và Công nghệ.\n- Công an Thành phố Cần Thơ: Đại diện lãnh đạo Phòng PA03.\n- Đại diện lãnh đạo Trung tâm Kiểm định chất lượng giáo dục - Đại học Đà Nẵng và Đoàn Đánh giá ngoài: 4 đại biểu.\n- Đại diện lãnh đạo các đơn vị tài trợ (nếu có)."
+  },
+  {
+    "role": "user",
+    "content": "các ãnh đạo vđại diện bao gồm những ai "
+  },
+  {
+    "role": "assistant",
+    "content": "Các đại diện bao gồm: + Lãnh đạo UBND TP Cần Thơ. + Đại diện lãnh đạo Đảng ủy Khối cơ quan Dân Chính Đảng. + Đại diện lãnh đạo Sở Giáo dục và Đào tạo; Sở Khoa học và Công nghệ. + Công an Thành phố Cần Thơ: Đại diện lãnh đạo Phòng PA03. + Đại diện Lãnh đạo Trung tâm Kiểm định chất lượng giáo dục-Đại học Đà Nẵng và Đoàn Đánh giá ngoài: 04 đại biểu. + Đại diện lãnh đạo các đơn vị tài trợ (nếu có)."
+  },
+  {
+    "role": "user",
+    "content": "Đại diện viên chức, giảng viên có bao nhiêu nười"
+  },
+  {
+    "role": "assistant",
+    "content": "Thông tin không cung cấp số lượng đại diện viên chức, giảng viên."
+  },
+  {
+    "role": "user",
+    "content": "Đại diện viên chức, giảng viên có bao nhiêu đại biểu"
+  },
+  {
+    "role": "assistant",
+    "content": "Có 35 đại biểu đại diện viên chức, giảng viên."
+  },
+  {
+    "role": "user",
+    "content": "Đại diện cho sinh viên có bao nhiêu sinh viên"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Đại diện 03 sinh viên/ngành/khóa 2023 có bao nhiêu người"
+  },
+  {
+    "role": "assistant",
+    "content": "Đại diện 03 sinh viên/ngành/khóa 2023 có 66 sinh viên."
+  },
+  {
+    "role": "user",
+    "content": "thời gian dự kến từ lúc đầu đến lúc kết thúc là bao lâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Thời gian dự kiến từ lúc đầu đến lúc kết thúc là 3 tiếng và 30 phút."
+  },
+  {
+    "role": "user",
+    "content": "chương trình lễ khai giảng có bao nhiội dung"
+  },
+  {
+    "role": "assistant",
+    "content": "Thông tin không cung cấp đủ nội dung của chương trình lễ khai giảng."
+  },
+  {
+    "role": "user",
+    "content": "chương trình có bao nêu nội dung"
+  },
+  {
+    "role": "assistant",
+    "content": "Có, chương trình đã nêu nội dung của buổi lễ."
+  },
+  {
+    "role": "user",
+    "content": "có bao nhiêu nội dungần làm trong ổi lễ"
+  },
+  {
+    "role": "assistant",
+    "content": "Có 14 nội dung được thực hiện trong lễ khai giảng."
+  },
+  {
+    "role": "user",
+    "content": "khách đạiiểuđược đón tiếại đâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Khách đại biểu sẽ được đón tại phòng Hội thảo 1."
+  },
+  {
+    "role": "user",
+    "content": "cần có mặt lúc mấyđểổn định tổ chức"
+  },
+  {
+    "role": "assistant",
+    "content": "Cần có mặt lúc 7g15 để ổn định tổ chức."
+  },
+  {
+    "role": "user",
+    "content": "sinh viên cần có mặt lúc mấy giờ để ổn định tổ chức"
+  },
+  {
+    "role": "assistant",
+    "content": "Sinh viên cần có mặt lúc 7g15 để ổn định tổ chức."
+  },
+  {
+    "role": "user",
+    "content": "Phai sẽ lgười phụ trách chụình, quay video"
+  },
+  {
+    "role": "assistant",
+    "content": "Phòng Thanh tra-Pháp chế-Khảo thí-Đảm bảo chất lượng sẽ phụ trách chụp hình, quay video."
+  },
+  {
+    "role": "user",
+    "content": "Đoàn Thanh niên và Hội sinh viên cần phải uẩn bị những gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Đoàn Thanh niên và Hội sinh viên cần phải chuẩn bị phát động thi đua năm học 2023-2024 và chuẩn bị video clip tổng kết công tác hoạt động của Trường năm học 2022-2023."
+  },
+  {
+    "role": "user",
+    "content": "Đoàn Thanh niên và Hội sinh viên cần phải cẩn bị những grước buổi lễ"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Đoàn Thanh niên và Hội sinh viên cầẩn bị gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Đoàn Thanh niên và Hội sinh viên cần chuẩn bị các công việc liên quan đến tổ chức Lễ Khái giảng năm học 2023-2024 và công bố Quyết định đạt chuẩn kiểm định chất lượng 05 chương trình đào tạo."
+  },
+  {
+    "role": "user",
+    "content": "đoàn thanh niên v hội sinh viên phải cẩn bị bao nhiêu tiết mục"
+  },
+  {
+    "role": "assistant",
+    "content": "Đoàn thanh niên và hội sinh viên phải chuẩn bị 2 tiết mục."
+  },
+  {
+    "role": "user",
+    "content": "đoàn thanh niên v hội sinh viên phải cẩn bị bao nhiêu tiết mục tời lượng bao lâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Đoàn thanh niên và hội sinh viên cần chuẩn bị 2 tiết mục và thời lượng là 15 phút."
+  },
+  {
+    "role": "user",
+    "content": "quy định trang phục cho các dơn vị"
+  },
+  {
+    "role": "assistant",
+    "content": "Quy định trang phục cho các đơn vị là: Nữ mặc bộ vest đồng phục, áo sơ mi trắng và nơ đỏ; Nam mặc bộ vest đồng phục, áo sơ mi trắng và cà vạt đỏ."
+  }
+]

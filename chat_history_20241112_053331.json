@@ -1,0 +1,82 @@
+[
+  {
+    "role": "user",
+    "content": "đềtài đatn/kltn, tttn phải đáp ứng nhữều gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Đề tài ĐATN/KLTN/TTTN phải đáp ứng nhiều yêu cầu như: \n- Có tài liệu tham khảo được trích dẫn và sử dụng trong đề tài.\n- Trích dẫn tham khảo có ý nghĩa quan trọng đối với ĐATN/KLTN/TTTN, nhằm tăng giá trị và chất lượng của đề tài.\n- Nguồn trích dẫn phải được ghi nhận ngay khi thông tin được sử dụng.\n- Có cách trích dẫn phổ biến như \"tên tác giả - năm\" hoặc trích dẫn theo chữ số.\n- Không ghi họ châm, học vị, địa vị xã hội của tác giả trong thông tin trích dẫn.\n- Đề tài phải được phê duyệt và có danh sách sinh viên thực hiện."
+  },
+  {
+    "role": "user",
+    "content": "Đê tài ĐATN/KLTN/TTTN là các vấn đê khoa học cụ thể của chuyên ngành đào tạo, đê tài phải đáp ứng"
+  },
+  {
+    "role": "assistant",
+    "content": "Đê tài ĐATN/KLTN/TTTN là các vấn đề khoa học cụ thể của chuyên ngành đào tạo và phải đáp ứng tính khoa học, tính thực tiễn, tính khả thi và đủ điều kiện thực hiện."
+  },
+  {
+    "role": "user",
+    "content": "tên đề ài có ràng buộc không"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Phương thức thực hiện ĐATN/KLTN, TTTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Phương thức thực hiện ĐATN/KLTN, TTTN được quy định trong Điều 9 và Điều 17 của quy định. Sinh viên phải nộp báo cáo tổng kết đề tài trước khi ra Hội đồng bảo vệ. Nếu sinh viên không nộp đúng thời hạn mà không có lý do chính đáng, sẽ bị xử lý theo Điều 17. Ngoài ra, quy định còn nêu rõ về việc trích dẫn tài liệu tham khảo và xử lý vi phạm trong quá trình thực hiện ĐATN/KLTN, TTTN."
+  },
+  {
+    "role": "user",
+    "content": "có yêu ầu ào chocán bộướng dẫn đatn/kltn, tttn không"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Cán bộ hướng dẫn ĐATN/KLTN, TTTN phải đáp ứng các yêu cầu"
+  },
+  {
+    "role": "assistant",
+    "content": "Cán bộ hướng dẫn ĐATN/KLTN, TTTN phải đáp ứng các yêu cầu về kiến thức chuyên ngành, có khả năng hướng dẫn sinh viên trong quá trình thực hiện và giúp sinh viên nâng cao kỹ năng nghiên cứu và làm việc sau khi tốt nghiệp."
+  },
+  {
+    "role": "user",
+    "content": "học vị thạc có số  tài ối đa là bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "học vị thạc sĩ, giảng viêhữu có bao nhiêu đatn/kltn"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Quy cách trình bày ĐATN/ KLTN, TTTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Quy cách trình bày ĐATN/ KLTN, TTTN bao gồm các mục mở đầu, trang bìa chính và trang bìa phụ, trang xác nhận của CBHD và Ban chấm, lời cam đoan, lời cảm ơn, phiếu đánh giá của cơ quan/doanh nghiệp (nếu có), tóm lược, mục lục, danh mục từ viết tắt, danh mục bảng biểu và danh mục hình ảnh. Số chương của một ĐATN/ KLTN/ TTTN tuỳ thuộc vào từng chuyên ngành và đề tài cụ thể."
+  },
+  {
+    "role": "user",
+    "content": "điều 8 Quy cách trình bày ĐATN/ KLTN, TTTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Điều 8 trong quy định này không cung cấp thông tin về quy cách trình bày ĐATN/KLTN, TTTN. Tôi không có đủ thông tin để trả lời câu hỏi này."
+  }
+]

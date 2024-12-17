@@ -1,0 +1,122 @@
+[
+  {
+    "role": "sinh_vien",
+    "content": "có ường ợp đặc biệào đatn/kltn ược hực hiệtối đa 3 sinh viên không"
+  },
+  {
+    "role": "assistant",
+    "content": "Có, có thể có tối đa 3 sinh viên không đủ điều kiện đăng ký học phần ĐATN/KLTN và có thể chọn học phần TTTN hoặc một số học phần chuyên môn khác theo quy định của CTĐT."
+  },
+  {
+    "role": "sinh_vien",
+    "content": "Trách nhiệm của CBHD"
+  },
+  {
+    "role": "assistant",
+    "content": "CBHD có trách nhiệm kiểm tra tiến độ thực hiện, tư vấn, giải đáp thắc mắc cho sinh viên thực hiện đề tài."
+  },
+  {
+    "role": "sinh_vien",
+    "content": "Phòng Công tác Chính trị và Quản lý sinh viên có chịu trách nhiệm gì không"
+  },
+  {
+    "role": "assistant",
+    "content": "Phòng Công tác Chính trị và Quản lý sinh viên có trách nhiệm tạo mối liên kết với cơ quan/doanh nghiệp nhận sinh viên thực hiện ĐATN/KLTN/TTTN để hỗ trợ, quản lý sinh viên trong thời gian học tập ngoài Trường. Ngoài ra, phòng này cũng có trách nhiệm xử lý kỷ luật sinh viên vi phạm quy định trong quá trình thực hiện ĐATN/KLTN/TTTN."
+  },
+  {
+    "role": "sinh_vien",
+    "content": "THÁI ĐỘ, CHẤP HÀNH KỶ LUẬT chiếm bao nhiêu % số điểm"
+  },
+  {
+    "role": "assistant",
+    "content": "THÁI ĐỘ, CHẤP HÀNH KỶ LUẬT chiếm 30% số điểm."
+  },
+  {
+    "role": "user",
+    "content": "kỹ năng mềm b gồm những kỹ năng gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Kỹ năng mềm bao gồm:\n- Làm việc độc lập\n- Làm việc theo nhóm\n- Năng động, tích cực trong công việc"
+  },
+  {
+    "role": "user",
+    "content": "Các tiểu mục của ĐATN/KLTN/TTTN được trình bày như nào"
+  },
+  {
+    "role": "assistant",
+    "content": "Các tiểu mục của ĐATN/KLTN/TTTN được trình bày theo thứ tự sau:\n1. Trang bìa chính (màu xanh dương cho ĐATN/KLTN và màu xanh lá cho TTTN)\n2. Trang bìa phụ (trên giấy trắng thông thường)\n3. Trang xác nhận của CBHD và Ban chấm\n4. Lời cam đoan\n5. Lời cảm ơn\n6. Phiếu đánh giá của cơ quan/doanh nghiệp (nếu có)\n7. Tóm lược\n8. Mục lục\n9. Danh mục các từ viết tắt\n10. Danh mục bảng biểu\n11. Danh mục hình ảnh"
+  },
+  {
+    "role": "user",
+    "content": "những mụcủa  ĐATN/KLTN/TTTN được trình bày như nào"
+  },
+  {
+    "role": "assistant",
+    "content": "Mục của ĐATN/KLTN/TTTN được trình bày theo thứ tự sau:\n1. Trang bìa chính (màu xanh dương)\n2. Trang bìa phụ\n3. Trang xác nhận của CBHD và Ban chấm\n4. Lời cam đoan\n5. Lời cảm ơn\n6. Phiếu đánh giá của cơ quan/doanh nghiệp (nếu có)\n7. Tóm lược\n8. Mục lục\n9. Danh mục các từ viết tắt\n10. Danh mục bảng biểu\n11. Danh mục hình ảnh"
+  },
+  {
+    "role": "user",
+    "content": "vấn đềiết tắt trong đatn/kltn/tttn"
+  },
+  {
+    "role": "assistant",
+    "content": "Vấn đề viết tắt trong ĐATN/KLTN/TTTN là không sử dụng việc viết tắt trừ khi các từ, cụm từ hoặc thuật ngữ được sử dụng nhiều lần trong ĐATN/KLTN/TTTN. Không viết tắt những cụm từ dài hoặc những mệnh đề, không viết tắt những cụm từ ít xuất hiện trong ĐATN/KLTN/TTTN. Nếu cần viết tắt các từ, thuật ngữ, tên cơ quan, tổ chức... thì được viết tắt sau lần viết thứ nhất có kèm theo chữ viết tắt trong ngoặc đơn."
+  },
+  {
+    "role": "user",
+    "content": "trích dẫn trong đatn/kltn/tttn sao cho đúng"
+  },
+  {
+    "role": "assistant",
+    "content": "Có hai cách phổ biến để trích dẫn trong ĐATN/KLTN/TTTN. Cách đầu tiên là trích dẫn theo \"tên tác giả-năm\" (hệ thống Harvard), ví dụ: (Nguyễn Văn A, 2020). Cách thứ hai là trích dẫn theo chữ số (hệ thống Vancouver), ví dụ: [19]."
+  },
+  {
+    "role": "user",
+    "content": "Phương thức thực hiện ĐATN/KLTN, TTTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Phương thức thực hiện ĐATN/KLTN, TTTN được thực hiện theo quy định của Khoa chuyên ngành và thông báo của Trường. Sinh viên cần đăng ký đề tài phù hợp và thực hiện theo kế hoạch đã được thống nhất. Trong quá trình thực hiện, sinh viên cần tuân thủ các quy định và nội quy của Trường cũng như cơ quan/doanh nghiệp liên quan."
+  },
+  {
+    "role": "user",
+    "content": "Nộp ĐATN/KLTN/TTTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Sinh viên phải nộp báo cáo tổng kết đề án tốt nghiệp/khóa luận tốt nghiệp/thực tập tốt nghiệp trước khi hội đồng bảo vệ đề án tốt nghiệp/khóa luận tốt nghiệp/thực tập tốt nghiệp. Nộp báo cáo phải tuân thủ yêu cầu về hình thức, số lượng và thời hạn theo thông báo của Khoa chuyên ngành. Nếu sinh viên không nộp đúng thời hạn mà không có lí do chính đáng, sẽ bị xử lý theo quy định."
+  },
+  {
+    "role": "user",
+    "content": "sau khi bảo vệ thành công ĐATN/KLTN/TTTN sinh viên nên làm gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Sau khi bảo vệ thành công ĐATN/KLTN/TTTN, sinh viên nên nộp bản cứng và bản mềm của đề tài đã được phê duyệt đến phòng Quản lý khoa học - Hợp tác quốc tế theo quy định của trường."
+  },
+  {
+    "role": "user",
+    "content": "Ban chấm mỗi đê tài ĐATN/KLTN gồm những ai"
+  },
+  {
+    "role": "assistant",
+    "content": "Ban chấm mỗi đề tài ĐATN/KLTN gồm 3 thành viên, bao gồm 1 Trưởng ban, 1 Ủy viên thư ký và 1 Ủy viên phản biện là cán bộ phản biện (CBPB)."
+  },
+  {
+    "role": "user",
+    "content": "Chấm phúc tra ĐATN/ KLTN, TTTN là gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Chấm phúc tra ĐATN/KLTN, TTTN là quá trình đánh giá và đánh điểm cho Đồ án tốt nghiệp, Khóa luận tốt nghiệp, và Thực tập tốt nghiệp."
+  },
+  {
+    "role": "user",
+    "content": "Chế độ lưu trữ ĐATN/KLTN, TTTN là sao"
+  },
+  {
+    "role": "assistant",
+    "content": "Chế độ lưu trữ ĐATN/KLTN, TTTN là cách thức và quy trình để lưu trữ các đề án tốt nghiệp, khóa luận tốt nghiệp và đề tài thực tập tốt nghiệp."
+  }
+]

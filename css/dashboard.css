@@ -1,0 +1,35 @@
+body .header{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.subheader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #5e60fd;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+.logo img {
+    height: 50px;
+}
+
+.welcome {
+    font-size: 18px;
+}
+
+.logout a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.logout a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif; /* Font chữ cho toàn bộ trang */
+    background-color: #f0f0f0; /* Màu nền trang */
+    margin: 0; /* Xóa margin mặc định */
+    padding: 20px; /* Khoảng cách bên trong */
+}
+
+.container {
+    background-color: #ffffff; /* Màu nền trắng cho container */
+    border: 1px solid #ccc; /* Đường viền xung quanh */
+    border-radius: 8px; /* Bo tròn các góc */
+    padding: 30px; /* Khoảng cách bên trong */
+    max-width: 600px; /* Chiều rộng tối đa */
+    margin: 0 auto; /* Căn giữa */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Đổ bóng nhẹ */
+    text-align: center; /* Căn giữa nội dung */
+}
+
+h1 {
+    color: #333; /* Màu chữ tiêu đề */
+    font-size: 28px; /* Kích thước chữ tiêu đề */
+    margin-bottom: 20px; /* Khoảng cách dưới tiêu đề */
+}
+
+p {
+    margin: 10px 0; /* Khoảng cách giữa các đoạn văn */
+    font-size: 16px; /* Kích thước chữ cho đoạn văn */
+    color: #555; /* Màu chữ cho đoạn văn */
+}
+
+strong {
+    color: #007bff; /* Màu chữ cho các nhãn */
+}
+
+a {
+    display: inline-block; /* Hiển thị như một khối */
+    margin-top: 20px; /* Khoảng cách trên */
+    padding: 10px 15px; /* Khoảng cách bên trong */
+    background-color: #007bff; /* Màu nền cho nút quay lại */
+    color: white; /* Màu chữ */
+    text-decoration: none; /* Bỏ gạch chân */
+    border-radius: 4px; /* Bo tròn các góc */
+    transition: background-color 0.3s; /* Hiệu ứng chuyển màu khi hover */
+}
+
+a:hover {
+    background-color: #0056b3; /* Màu nền khi di chuột */
+}

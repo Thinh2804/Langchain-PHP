@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "content": "điều kiện nhận hbổng là gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Điều kiện nhận học bổng là hoàn cảnh gia đình khó khăn và đạt kết quả học tập, điểm rèn luyện từ loại khá trở lên."
+  },
+  {
+    "role": "user",
+    "content": "giá tr của hc bổng là bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Giá trị của học bổng là 3.000.000 đồng/suất."
+  },
+  {
+    "role": "user",
+    "content": "vậy có bao nhiêu suất học bổng"
+  },
+  {
+    "role": "assistant",
+    "content": "Có 30 suất học bổng."
+  },
+  {
+    "role": "user",
+    "content": "địa điểm nộp hồ sơ để xétổng"
+  },
+  {
+    "role": "assistant",
+    "content": "Địa điểm nộp hồ sơ để xét được thông báo là Phòng Công tác Chính trị và Quản lý sinh viên."
+  },
+  {
+    "role": "user",
+    "content": "nếutôi cần trao ổi thêm thì nên liên hvới ai"
+  },
+  {
+    "role": "assistant",
+    "content": "Bạn nên liên hệ với Cô Đinh Viết Tuyết Hiền, Phòng Công tác Chính trị và Quản lý sinh viên, qua số điện thoại 0919.232.577 (zalo)."
+  },
+  {
+    "role": "user",
+    "content": "điều kiện nhận hoổng của sinh viên óa 2024"
+  },
+  {
+    "role": "assistant",
+    "content": "Đối với sinh viên khóa 2024, điều kiện nhận học bổng Lương Định Của bao gồm:\n- Đối với sinh viên từ khóa 2020 đến khóa 2023: kết quả năm học 2023-2024 có học lực và điểm rèn luyện đạt từ loại khá trở lên.\n- Đối với sinh viên khóa 2024: kết quả học tập lớp 12 đạt từ loại khá trở lên, hạnh kiểm tốt."
+  }
+]

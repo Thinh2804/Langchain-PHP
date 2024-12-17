@@ -1,0 +1,170 @@
+[
+  {
+    "role": "user",
+    "content": "đối ượng tham gia học GDQP&AN là ai"
+  },
+  {
+    "role": "assistant",
+    "content": "Đối tượng tham gia học GDQP&AN là sinh viên chính quy khóa 2023 và sinh viên các khóa trước chưa đăng ký học hoặc có kết quả học không đạt yêu cầu."
+  },
+  {
+    "role": "user",
+    "content": "thời gian học GDQP& an ninh"
+  },
+  {
+    "role": "assistant",
+    "content": "Thời gian học môn Giáo dục Quốc phòng và An ninh là từ ngày 23/6/2024 đến ngày 4/8/2024, được chia thành 2 đợt. Đợt 1 diễn ra từ ngày 23/6/2024 đến ngày 14/7/2024 và đợt 2 diễn ra từ ngày 14/7/2024 đến ngày 4/8/2024."
+  },
+  {
+    "role": "user",
+    "content": "địa đểm học thì sao"
+  },
+  {
+    "role": "assistant",
+    "content": "Địa điểm học được tổ chức trong sân Trường Đại học Kỹ thuật - Công nghệ Cần Thơ."
+  },
+  {
+    "role": "user",
+    "content": "địa đểm học GDQP & an ninh thì sao"
+  },
+  {
+    "role": "assistant",
+    "content": "Địa điểm học Giáo dục Quốc phòng và An ninh là Trung tâm Giáo dục Quốc phòng và An ninh Trường Đại học Cần Thơ, địa chỉ: Số 554 Quốc lộ 61, ấp Hòa Đức, xã Hòa An, huyện Phụng Hiệp, tỉnh Hậu Giang."
+  },
+  {
+    "role": "user",
+    "content": "học pần GDPQ & An ninh có bao nhiêuín chỉ và t thực hành"
+  },
+  {
+    "role": "assistant",
+    "content": "Thông tin không cung cấp số lượng tín chỉ và thời gian thực hành của môn học Giáo dục Quốc phòng và An ninh."
+  },
+  {
+    "role": "user",
+    "content": "có bao nhiêu tín chỉ"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "tổng số tiết thực hành"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số tiết thực hành không được cung cấp trong thông tin trên."
+  },
+  {
+    "role": "user",
+    "content": " nội dung của GDQP & AN ninh 1 là gì"
+  },
+  {
+    "role": "assistant",
+    "content": "GDQP & AN là viết tắt của Giáo dục Quốc phòng và An ninh. Nội dung của môn học GDQP & AN tập trung vào việc giáo dục và đào tạo sinh viên về kiến thức về quốc phòng và an ninh, bao gồm các vấn đề về lịch sử, chính trị, quân sự, pháp luật và kỹ năng tự bảo vệ cá nhân."
+  },
+  {
+    "role": "user",
+    "content": "Nội dung của GDQP & An ninh 1  là gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Nội dung của GDQP & An ninh 1 bao gồm giáo dục quốc phòng và an ninh trong trường đại học."
+  },
+  {
+    "role": "user",
+    "content": "khi học GDQP thì nội trúại đâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "có cần phảinội trú trong st thời gian học GDQP không"
+  },
+  {
+    "role": "assistant",
+    "content": "Có, sinh viên cần nội trú trong thời gian học GDQP&AN."
+  },
+  {
+    "role": "user",
+    "content": "sinh viên được cung ấp gì khhọc GDQP & an ninh"
+  },
+  {
+    "role": "assistant",
+    "content": "Sinh viên được cung cấp tài liệu học tập, 2 bộ quân phục, 1 mũ tai bèo, 1 dây thắt lưng, 1 bộ mùng, mền, chiếu, gối."
+  },
+  {
+    "role": "user",
+    "content": "khi đi học GDQP th sinh viên phải mang theo những gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Sinh viên khi đi học Giáo dục Quốc phòng và An ninh cần mang theo:\n- Giấy chứng minh nhân dân hoặc thẻ sinh viên.\n- Quần áo, giày vải (bata), mũ, tập viết và đồ dùng sinh hoạt cá nhân."
+  },
+  {
+    "role": "user",
+    "content": "chi phí sinh hạt phải đóng bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Chi phí sinh hoạt phải đóng là 1.500.000₫ (một triệu năm trăm nghìn đồng)."
+  },
+  {
+    "role": "user",
+    "content": "trước khi ào hc GDQP thì  tường có htrợ không"
+  },
+  {
+    "role": "assistant",
+    "content": "Thông tin không cung cấp đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "phương tiện đi lại"
+  },
+  {
+    "role": "assistant",
+    "content": "Trường bố trí xe ô tô để đưa đón sinh viên đến và về Trung tâm GDQP&AN. Sinh viên không được di chuyển riêng lẻ và không sử dụng phương tiện cá nhân. Chi phí xe đưa đón là 30.000 đồng/lượt."
+  },
+  {
+    "role": "user",
+    "content": "đợt 1 hclớp KTNL2311 không"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "đợt 1 hclớp Công nghệ kỹ thuật năng"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "đợt 1 hclớp công nghệ kỹ thuật nlượng 2023 không"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "địa điểm p trung trước khi điở đâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Thông tin không cung cấp địa điểm P trung trước khi điều đó."
+  },
+  {
+    "role": "user",
+    "content": "địa điểm p tập trung trước khi điở đâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Địa điểm tập trung trước khi điều đó là Trường Đại học Kỹ thuật - Công nghệ Cần Thơ."
+  }
+]

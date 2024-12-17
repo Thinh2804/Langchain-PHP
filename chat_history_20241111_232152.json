@@ -1,0 +1,66 @@
+[
+  {
+    "role": "user",
+    "content": "thời gian Đăng ký KLTN, TTTN, TCTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Thời gian đăng ký KLTN, TTTN, TCTN là trước ngày 03/10/2024."
+  },
+  {
+    "role": "user",
+    "content": "sinh viên phải oàn thành học phí khi nào"
+  },
+  {
+    "role": "assistant",
+    "content": "Sinh viên phải hoàn thành học phí trước ngày 5/10/2024."
+  },
+  {
+    "role": "user",
+    "content": "sinh viên đăng ký ktln, tttn, tctn phải đóng học phí khi nào"
+  },
+  {
+    "role": "assistant",
+    "content": "Sinh viên đăng ký KLTN, TTTN, TCTN phải đóng học phí trước ngày 05/10/2024."
+  },
+  {
+    "role": "user",
+    "content": "thời gian thực hiện kltn"
+  },
+  {
+    "role": "assistant",
+    "content": "Thời gian thực hiện KLTN là từ ngày 07/10/2024 đến ngày 19/01/2025."
+  },
+  {
+    "role": "user",
+    "content": "từ khi thực hiện chấm điểm kới khi có điểm trên hhống là bao lâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Từ khi thực hiện chấm điểm cho đến khi có điểm trên hồ sơ là khoảng thời gian từ trước ngày 17/02/2025."
+  },
+  {
+    "role": "user",
+    "content": "từ khi thực hiện chấm điểm kới àn tành nhập điểm là bao lâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Từ khi thực hiện chấm điểm cho đến khi nhập điểm là khoảng 12 ngày."
+  },
+  {
+    "role": "user",
+    "content": "thực hiện ktln baoồm những ai"
+  },
+  {
+    "role": "assistant",
+    "content": "Thực hiện KLTN bao gồm sinh viên và cán bộ hướng dẫn."
+  },
+  {
+    "role": "user",
+    "content": "từ khi đềtài được thông qua đề xuất đến khi quyết định phê ất bao lâu"
+  },
+  {
+    "role": "assistant",
+    "content": "Từ khi đề tài được đề xuất đến khi quyết định phê duyệt, mất khoảng 4 ngày."
+  }
+]

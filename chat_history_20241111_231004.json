@@ -1,0 +1,66 @@
+[
+  {
+    "role": "user",
+    "content": "GDQP & AN ninh có bao nhiêu ín chỉ"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "số ín chỉ"
+  },
+  {
+    "role": "assistant",
+    "content": "Số tín chỉ là 8 tín chỉ."
+  },
+  {
+    "role": "user",
+    "content": "có bao niêu tiết thực hành"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi không có đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "tổng số tiết thực hành"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số tiết thực hành là 165 tiết."
+  },
+  {
+    "role": "user",
+    "content": "Đợt 1 lớp Công nghệ kỹ thuật năng lượng 2023 có sĩ số bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Đợt 1 lớp Công nghệ kỹ thuật năng lượng 2023 có sĩ số là 56."
+  },
+  {
+    "role": "user",
+    "content": "tổng số là bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số là 787 sinh viên."
+  },
+  {
+    "role": "user",
+    "content": "Tổng số sinh viên đợt 1 là bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số sinh viên đợt 1 là 787."
+  },
+  {
+    "role": "user",
+    "content": "Tổng số sinh viên đợt 1 nếu trừ lớp QLXD2311 thì còn bao nhiêu"
+  },
+  {
+    "role": "assistant",
+    "content": "Tổng số sinh viên đợt 1 trừ lớp QLXD2311 là 787 - 722 = 65 sinh viên."
+  }
+]

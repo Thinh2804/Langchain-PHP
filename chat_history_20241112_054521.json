@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "điều 8 Quy cách trình bày ĐATN/ KLTN, TTTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Điều 8 của Quy cách trình bày ĐATN/KLTN, TTTN quy định về các mục mở đầu của ĐATN/KLTN, TTTN, bao gồm trang bìa chính, trang bìa phụ, trang xác nhận của CBHD và Banchấm, lời cam đoan, lời cảm ơn, phiếu đánh giá của cơ quan/doanh nghiệp (nếu có), tóm lược, mục lục, danh mục các từ viết tắt, danh mục bảng biểu, danh mục hình ảnh."
+  },
+  {
+    "role": "user",
+    "content": "điều 8 Quy cách trình bày ĐATN/ KLTN, TTTN được ình bày theo văn phongào"
+  },
+  {
+    "role": "assistant",
+    "content": "Điều 8 quy định rằng ĐATN/KLTN, TTTN được trình bày theo văn phong khoa học, thể hiện tính chính xác, rõ ràng, mạch lạc, đúng ngữ pháp, không mắc lỗi chính tả."
+  },
+  {
+    "role": "user",
+    "content": "điềuSau khi bảo vệ thành công ĐATN/KLTN/TTTN sinh viên phải làm gì"
+  },
+  {
+    "role": "assistant",
+    "content": "Sinh viên sau khi bảo vệ thành công ĐATN/KLTN/TTTN phải thực hiện các công việc sau:\n- Hoàn thành các thủ tục báo cáo kết quả bảo vệ đề tài theo quy định của trường.\n- Nộp bản hoàn chỉnh của đề tài đã được bảo vệ cho khoa/chuyên ngành.\n- Được hội đồng khoa học và đào tạo (HĐKHĐT) của khoa xem xét, duyệt kết quả bảo vệ và cấp chứng chỉ hoàn thành ĐATN/KLTN/TTTN.\n- Có thể sử dụng kết quả nghiên cứu trong hoạt động nghề nghiệp và công bố khoa học theo quy định."
+  },
+  {
+    "role": "user",
+    "content": "Điều kiện bảo vệ ĐATN/KLTN/TTTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Điều kiện bảo vệ ĐATN/KLTN/TTTN bao gồm:\n1. Không bị kỷ luật trong thời gian thực hiện ĐATN/KLTN/TTTN.\n2. Hoàn thành ĐATN/KLTN/TTTN đúng đề tài đã được phê duyệt.\n3. Không vi phạm tính liêm chính trong nghiên cứu khoa học.\n4. Được CBHD chấp thuận cho bảo vệ.\n5. Thành viên Ban chấm tham dự buổi bảo vệ đầy đủ."
+  },
+  {
+    "role": "user",
+    "content": "Kết quả đánh giá ĐATN/KLTN/TTTN được tính như nào"
+  },
+  {
+    "role": "assistant",
+    "content": "Kết quả đánh giá ĐATN/KLTN/TTTN được tính bằng cách lấy trung bình điểm chấm của CBHD, CBPB, Thư ký và Trưởng ban, sau đó chia cho 4."
+  },
+  {
+    "role": "user",
+    "content": "Chấm phúc tra ĐATN/ KLTN, TTTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Thông tin không cung cấp đủ thông tin để trả lời câu hỏi này."
+  },
+  {
+    "role": "user",
+    "content": "Trách nhiệm của sinh viên thực hiện ĐATN/ KLTN, TTTN"
+  },
+  {
+    "role": "assistant",
+    "content": "Trách nhiệm của sinh viên là thực hiện và hoàn thành ĐATN/ KLTN, TTTN theo quy định của Trường và Khoa/chuyên ngành, đáp ứng các yêu cầu về tính khoa học, tính khả thi, đủ điều kiện thực hiện, không trùng lặp giữa các đề tài và tuân thủ nội quy/quy định của Trường."
+  }
+]
